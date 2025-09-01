@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4aHllCEVEfluv9i4kBLHiqt6dRvWtna0ocQrg2lWkuc=",
+  "Source": "CustomGrpcBackend",
+  "BasePath": "_content/CustomGrpcBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
