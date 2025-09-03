@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomGrpcBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4150e5dfaf1e29c574b39ead96db9bf9496f0368")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomGrpcBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomGrpcBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

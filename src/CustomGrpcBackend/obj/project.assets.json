@@ -2008,11 +2008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alen/Documents/programing/personal/proj/cs/customGrpcBackend/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
+      "projectUniqueName": "/home/alen/Documents/programing/personal/projects/c#/gRPC-HTTP2-handler/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
       "projectName": "CustomGrpcBackend",
-      "projectPath": "/home/alen/Documents/programing/personal/proj/cs/customGrpcBackend/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
+      "projectPath": "/home/alen/Documents/programing/personal/projects/c#/gRPC-HTTP2-handler/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
       "packagesPath": "/home/alen/.nuget/packages/",
-      "outputPath": "/home/alen/Documents/programing/personal/proj/cs/customGrpcBackend/src/CustomGrpcBackend/obj/",
+      "outputPath": "/home/alen/Documents/programing/personal/projects/c#/gRPC-HTTP2-handler/src/CustomGrpcBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alen/.nuget/NuGet/NuGet.Config"

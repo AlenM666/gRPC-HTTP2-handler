@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKunQuQWd+g=",
+  "dgSpecHash": "+Okj9ReAJoY=",
   "success": true,
-  "projectFilePath": "/home/alen/Documents/programing/personal/proj/cs/customGrpcBackend/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
+  "projectFilePath": "/home/alen/Documents/programing/personal/projects/c#/gRPC-HTTP2-handler/src/CustomGrpcBackend/CustomGrpcBackend.csproj",
   "expectedPackageFiles": [
     "/home/alen/.nuget/packages/google.protobuf/3.32.0/google.protobuf.3.32.0.nupkg.sha512",
     "/home/alen/.nuget/packages/grpc.aspnetcore/2.71.0/grpc.aspnetcore.2.71.0.nupkg.sha512",
